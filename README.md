@@ -1,0 +1,4 @@
+# ToDoList added on 6.05.2021
+
+README ADDITIONAL INFO:
+EXAM (JAVAFX) added on 05.02.2022
